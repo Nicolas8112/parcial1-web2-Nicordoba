@@ -7,6 +7,7 @@ API REST desarrollada con **Express 5**, **Prisma 7 (con adaptador PostgreSQL)**
 
 Para ejecutar el proyecto descargado:
 **Extrae el archivo `.zip`.**
+PD: El unico archivo que falta en el git hub es el node_modules por su peso
 
 ---
 
@@ -79,3 +80,4 @@ Payload:
 Acción: clic en Send (debería devolverte un código 201 Created).
 
 Nombre de petición: Crear Libro
+
