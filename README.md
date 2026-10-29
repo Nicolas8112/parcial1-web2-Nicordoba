@@ -3,7 +3,7 @@
 
 API REST desarrollada con **Node.js**, **Express 5**, **Prisma 7 (con adaptador PostgreSQL)** y estructurada bajo una arquitectura de 3 capas (Controllers, Services, Routes), completamente dockerizada.
 
-🔗 **Enlace de descarga en Google Drive:** [Haz clic aquí para descargar el proyecto en ZIP]
+🔗 **Enlace de descarga en Google Drive:** [https://drive.google.com/drive/u/2/folders/1puQKU9CbvX9SFFOVql3vt5yPJ_POKYB1]
 
 Para ejecutar el proyecto descargado:
 **Extrae el archivo `.zip`.**
